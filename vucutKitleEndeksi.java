@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class vucutKitleEndeksi{
 public static void main(String[] args) {
         int boy = 0;
         double kilo = 0;
