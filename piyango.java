@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class piyango {
-    public class calisma13 {
         public static void main(String[] args) {
             Scanner scn = new Scanner(System.in);
             int sansliSayi = (int) (Math.random()*99+1);
@@ -32,4 +31,3 @@ public class piyango {
             }
         }
     }
-}
