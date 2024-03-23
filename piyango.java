@@ -2,12 +2,11 @@ import java.util.Scanner;
 
 public class piyango {
     public class calisma13 {
-        //Küçük bir piyango oyunu tasarlayınız. Sistem iki basamaklı bir sayı üretmeli.
-        //Kullanıcıdan da bu sayıyı tahmin etmesini istemelisiniz.
         public static void main(String[] args) {
             Scanner scn = new Scanner(System.in);
             int sansliSayi = (int) (Math.random()*99+1);
-            System.out.println("Lütfen tahmininizi girin:");
+            System.out.println("**PİYANGO OYUNUNA HOŞGELDİNİZ**");
+            System.out.println("Lütfen şanslı sayıyı bulmak için tahmininizi giriniz:");
             int tahminEdilenSayi = scn.nextInt();
             int sansliSayiBirinciBasamak = sansliSayi / 10;
             int sansliSayiİkinciBasamak = sansliSayi % 10;
