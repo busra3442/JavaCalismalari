@@ -1,3 +1,3 @@
-JavaCalismalari adlı depom java dilinde kendimi geliştirmek için yaptığım projelerden oluşmaktadır.
-Hepsi java diliyle yazılmıştır başlangıç düzeyi ve orta düzeyli projelerden oluşmaktadır. 
-Kendimi geliştirdikçe daha üst düzey projeler de ekliyor olacağım.
+My repository named JavaCalismalari consists of the projects I made to improve myself in the Java language.
+All of them are written in Java language and consist of beginner and intermediate level projects.
+As I improve myself, I will be adding higher level projects.
