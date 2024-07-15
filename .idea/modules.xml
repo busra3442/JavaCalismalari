@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/GameShop.iml" filepath="$PROJECT_DIR$/GameShop.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Uygulama5.iml" filepath="$PROJECT_DIR$/Uygulama5.iml" />
+>>>>>>> eac3d6d (version1)
     </modules>
   </component>
 </project>
