@@ -4,6 +4,7 @@
     <modules>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/GameShop.iml" filepath="$PROJECT_DIR$/GameShop.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/Uygulama5.iml" filepath="$PROJECT_DIR$/Uygulama5.iml" />
@@ -11,6 +12,9 @@
 =======
       <module fileurl="file://$PROJECT_DIR$/miniProjeler.iml" filepath="$PROJECT_DIR$/miniProjeler.iml" />
 >>>>>>> de8529a (ilk)
+=======
+      <module fileurl="file://$PROJECT_DIR$/etkinlikOnerenProgram.iml" filepath="$PROJECT_DIR$/etkinlikOnerenProgram.iml" />
+>>>>>>> 7498852 (ilk)
     </modules>
   </component>
 </project>
