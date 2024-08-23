@@ -32,23 +32,3 @@ public class Main {
         kebapTarifi.servisYap();
 
 =======
-import java.util.Scanner;
-
-public class Main {
-    public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
-        System.out.println("Lütfen hava sıcaklığını giriniz!");
-        int sicaklik = scn.nextInt();
-
-        if (sicaklik < 5) {
-            System.out.println("Hava kayak yapmak için çok uygun:)");
-        } else if (sicaklik < 15) {
-            System.out.println("Hava tiyatroya gitmek için çok uygun:)");
-        } else if (sicaklik < 25) {
-            System.out.println("Hava mangal yakmak için çok uygun:)");
-        } else {
-            System.out.println("Hava yüzmek için çok uygun:)");
-        }
->>>>>>> 7498852 (ilk)
-    }
-}
